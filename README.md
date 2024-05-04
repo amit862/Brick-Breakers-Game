@@ -21,8 +21,5 @@ These instructions will get you a copy of the project up and running on your loc
 ![App Screenshot](https://github.com/amit862/Brick-Breakers-Game/blob/master/gist.png)
 
 
-```bash
-Java JDK 11 or newer
-
 
 
